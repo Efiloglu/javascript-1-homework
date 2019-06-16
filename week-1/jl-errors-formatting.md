@@ -18,17 +18,19 @@ let a = 1:
 ```
 error message:
 ```
+this is a error message
 ```
 classification:
 * creation phase or execution phase ?
 * syntax or semanitc ?
 
 the fix:
-```
+```js
 let a = 1;
 ```
 
-your notes:
+your notes:  
+
 :+1:
 [TOP](#formatting-errors)
 
