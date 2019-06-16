@@ -14,7 +14,7 @@ It's easy to miss the little things, even when you're an experienced programmer!
 ## improper end of statement
 broken code:
 ```js
-let a = 1:
+let a = 1;
 ```
 error message:
 ```
