@@ -24,8 +24,10 @@ classification:
 * syntax or semanitc ?
 
 the fix:
-```js
+```
 let a = 1;
+```
+
 your notes:
 :+1:
 [TOP](#formatting-errors)
