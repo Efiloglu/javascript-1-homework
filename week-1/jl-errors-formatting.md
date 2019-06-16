@@ -25,7 +25,7 @@ classification:
 
 the fix:
 ```js
-```
+```:+1:
 your notes:
 
 [TOP](#formatting-errors)
