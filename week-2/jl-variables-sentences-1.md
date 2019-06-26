@@ -16,15 +16,15 @@ You'll have to practice looking ahead of and behind the line you are writing to 
 ### challenges: 
 1. [the toad reads me](https://goo.gl/imKwgj)  
 ```js
-let _1 = "the", _2 = "toad", _3 = "reads", _4 = "me";
+
 ```  
 1. [eating meat every meal](https://goo.gl/cwZijk)
 ```js
-let _1 = 'eating', _2 = 'meat', _3 = 'every', _4 = 'meal';
+
 ```  
 1. [many men may melt my mind](https://goo.gl/16C62t)
 ```js
-let _1 = 'many ', _2 = 'men ', _3 = 'may ', _4 = 'melt ', _5 = 'my ', _6 = 'mind ';
+
 ```  
 1. [if fir trees ever fall](https://goo.gl/8y5Lh2)
 ```js
