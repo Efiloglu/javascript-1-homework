@@ -42,7 +42,7 @@ let myArray = [1, 2 3];
 ```
 error message:
 ``` js
-// Unexpected token!
+alert("Unexpected number!"); 
 ```
 classification:
 * creation phase or execution phase ?
@@ -69,7 +69,8 @@ let myArray = [
               ];
 ```
 error message:
-```// Cannot read property '9' of undefined
+```js
+alert("Cannot read property '9' of undefined!");  
 ```
 classification:
 * creation phase or execution phase ?
