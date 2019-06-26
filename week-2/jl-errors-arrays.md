@@ -41,7 +41,8 @@ broken code:
 let myArray = [1, 2 3];
 ```
 error message:
-```// Unexpected number
+``` js
+// Unexpected token!
 ```
 classification:
 * creation phase or execution phase ?
