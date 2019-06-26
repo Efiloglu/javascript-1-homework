@@ -16,7 +16,14 @@ You'll have to practice looking ahead of and behind the line you are writing to 
 ### challenges: 
 1. [the toad reads me](https://goo.gl/imKwgj)  
 ```js
-
+// the
+_1 = "t", _2 = "h", _3 = "e";
+// toad
+_2 = "o", _3 = "a", _4 = "d";
+// reads
+_1 = "r", _2 = "e", _5 = "s";
+// me
+_1 = "m", _3 = " ", _4 = " ", _5 = " ";
 ```  
 1. [eating meat every meal](https://goo.gl/cwZijk)
 ```js
