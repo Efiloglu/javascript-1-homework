@@ -17,7 +17,7 @@ broken code:
 let myArray = [1, 2, 3;
 ```
 error message:
-```//* Unexpected token
+```// Unexpected token
 ```
 classification:
 * creation phase or execution phase ?
@@ -40,7 +40,7 @@ broken code:
 let myArray = [1, 2 3];
 ```
 error message:
-```//* Unexpected number
+```// Unexpected number
 ```
 classification:
 * creation phase or execution phase ?
@@ -67,7 +67,7 @@ let myArray = [
               ];
 ```
 error message:
-```//* Cannot read property '9' of undefined
+```// Cannot read property '9' of undefined
 ```
 classification:
 * creation phase or execution phase ?
