@@ -17,7 +17,8 @@ broken code:
 let myArray = [1, 2, 3;
 ```
 error message:
-``` alert("Unexpected token!"); 
+``` js
+alert("Unexpected token!"); 
 ```
 classification:
 * creation phase or execution phase ?
