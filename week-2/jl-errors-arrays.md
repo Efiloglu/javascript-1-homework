@@ -17,7 +17,7 @@ broken code:
 let myArray = [1, 2, 3;
 ```
 error message:
-```
+```Unexpected token
 ```
 classification:
 * creation phase or execution phase ?
@@ -25,6 +25,7 @@ classification:
 
 the fix:
 ```js
+let myArray = [1, 2, 3];
 ```
 your notes:
 
@@ -39,7 +40,7 @@ broken code:
 let myArray = [1, 2 3];
 ```
 error message:
-```
+```Unexpected number
 ```
 classification:
 * creation phase or execution phase ?
@@ -47,6 +48,7 @@ classification:
 
 the fix:
 ```js
+let myArray = [1, 2, 3];
 ```
 your notes:
 
@@ -65,7 +67,7 @@ let myArray = [
               ];
 ```
 error message:
-```
+```Cannot read property '9' of undefined
 ```
 classification:
 * creation phase or execution phase ?
@@ -73,6 +75,11 @@ classification:
 
 the fix:
 ```js
+let myArray = [
+                [1, 2, 3],
+                [4, 5, 6],
+                [7, 8, 9]
+              ];
 ```
 your notes:
 
