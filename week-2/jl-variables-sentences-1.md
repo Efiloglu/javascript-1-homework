@@ -27,7 +27,14 @@ _1 = "m", _3 = " ", _4 = " ", _5 = " ";
 ```  
 1. [eating meat every meal](https://goo.gl/cwZijk)
 ```js
-
+8	// eating
+9	_1 = "e", _2 = "a", _3 = "t", _4 = "i", _5 = "n", _6= "g";
+10	// meat
+11	_4 = _3, _3 = _2, _2 = _1, _1 = "m", _5 = " ", _6 = " ";
+12	// every
+13	_1 = _2, _3 = _2, _2 = "v", _4 = "r", _5 = "y";
+14	// meal
+15	_1 = "m", _2 = _3, _3 = "a", _4 = "l", _5 = " ";
 ```  
 1. [many men may melt my mind](https://goo.gl/16C62t)
 ```js
