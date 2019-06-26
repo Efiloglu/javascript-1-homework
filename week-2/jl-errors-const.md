@@ -18,6 +18,7 @@ const = 5;
 ```
 error message:
 ```js
+Unexpected token =
 ```
 classification:
 * creation phase or execution phase ?
@@ -25,6 +26,7 @@ classification:
 
 the fix:
 ```js
+const x = 5;
 ```
 your notes:
 
@@ -41,7 +43,8 @@ const a = 9;
 a = 0;
 ```
 error message:
-```
+```js
+Assignment to constant variable.
 ```
 classification:
 * creation phase or execution phase ?
@@ -49,6 +52,8 @@ classification:
 
 the fix:
 ```js
+const a = 9;
+const b = 0;
 ```
 your notes:
 
@@ -65,7 +70,8 @@ const a;
 a = 0;
 ```
 error message:
-```
+```js
+Missing initializer in const declaration
 ```
 classification:
 * creation phase or execution phase ?
@@ -73,6 +79,7 @@ classification:
 
 the fix:
 ```js
+const a = 0;
 ```
 your notes:
 
