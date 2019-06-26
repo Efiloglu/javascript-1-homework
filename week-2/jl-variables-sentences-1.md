@@ -24,7 +24,7 @@ let _1 = 'eating', _2 = 'meat', _3 = 'every', _4 = 'meal';
 ```  
 1. [many men may melt my mind](https://goo.gl/16C62t)
 ```js
-
+let _1 = 'many ', _2 = 'men ', _3 = 'may ', _4 = 'melt ', _5 = 'my ', _6 = 'mind ';
 ```  
 1. [if fir trees ever fall](https://goo.gl/8y5Lh2)
 ```js
