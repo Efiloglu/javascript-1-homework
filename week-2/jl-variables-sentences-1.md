@@ -16,11 +16,11 @@ You'll have to practice looking ahead of and behind the line you are writing to 
 ### challenges: 
 1. [the toad reads me](https://goo.gl/imKwgj)  
 ```js
-let _1 = "-- you write this --", _2 = "the", _3 = "toad", _4 = "reads", _5 = "me";
+let _1 = "the", _2 = "toad", _3 = "reads", _4 = "me";
 ```  
 1. [eating meat every meal](https://goo.gl/cwZijk)
 ```js
-
+let _1 = 'eating', _2 = 'meat', _3 = 'every', _4 = 'meal';
 ```  
 1. [many men may melt my mind](https://goo.gl/16C62t)
 ```js
