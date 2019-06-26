@@ -38,7 +38,18 @@ _1 = "m", _3 = " ", _4 = " ", _5 = " ";
 ```  
 1. [many men may melt my mind](https://goo.gl/16C62t)
 ```js
-
+8	// many
+9	_1 = 'm', _2 = 'a', _3 = 'n', _4 = 'y';
+10	// men
+11	_2 = 'e', _4 = ' ';
+12	// may
+13	_2 = 'a', _3 = 'y';
+14	// melt
+15	_2 = 'e', _3 = 'l', _4 = 't';
+16	// my
+17	_2 = 'y', _3 = ' ', _4 = ' ';
+18	// mind
+19	_2 = 'i', _3 = 'n', _4 = 'd';
 ```  
 1. [if fir trees ever fall](https://goo.gl/8y5Lh2)
 ```js
