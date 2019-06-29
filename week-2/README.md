@@ -2,15 +2,15 @@
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| :seedling: __[fcc: finish js basics](./fcc-basic-js-pt-2.md) |:+1: | | | |
+| :seedling: __[fcc: finish js basics](./fcc-basic-js-pt-2.md) |:seedling:| | | |
 | :dash: __[janke: tracing conditionals](./js-tracing-conditionals.md) | :+1: | | | |
-| :seedling: __[javascript.info: loops](./jsinfo-loops.md) |:+1:  | | | |
+| :seedling: __[javascript.info: loops](./jsinfo-loops.md) |:seedling:| | | |
 | :dash: __[janke: loop refactors](./jl-loop-refactors.md) |:+1:  | | | |
-| :seedling: __[fcc: data structures](./fcc-data-structures.md) |:+1:  | | | |
-| :seedling: __[janke: errors const](./jl-errors-const.md) |:+1: | | | |
-| :seedling: __[janke: errors arrays](./jl-errors-arrays.md) |:+1:  | | | |
-| :seedling: __[janke: errors objects](./jl-errors-objects.md) |:+1:  | | | |
-| :seedling: __[javascript.info: objects](./jsinfo-objects.md) |:+1:  | | | |
+| :seedling: __[fcc: data structures](./fcc-data-structures.md) |:seedling:| | | |
+| :seedling: __[janke: errors const](./jl-errors-const.md) |:seedling:| | | |
+| :seedling: __[janke: errors arrays](./jl-errors-arrays.md) |:seedling:| | | |
+| :seedling: __[janke: errors objects](./jl-errors-objects.md) |:seedling:| | | |
+| :seedling: __[javascript.info: objects](./jsinfo-objects.md) |:seedling:| | | |
 | :dash: __[janke: reference types](./jl-reference-types.md) |:+1:  | | | |
 | :fire: __[janke: ref-type arguments](./jl-functions-ref-type-args.md) |:+1:  | | | |
 | :dash: __[janke: sentences w/o temps](./jl-variables-sentences-1.md) |:+1:  | | | |
