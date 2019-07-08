@@ -134,17 +134,17 @@ It sounds complicated at first, but after some practice you'll find it's not so 
     function eat(_x, _y, _z) {
       return _x + _y + _z;
     }
-    var word_1 = eat(/* fill this in */);
+    var word_1 = eat(_2, _1, _3);
 
     function ate(_x, _y, _z) {
       return _x + _y + _z;
     }
-    var word_2 = ate(_1, _2, _3);
+    var word_2 = ate(_1, _3, _2);
 
     function tea(_x, _y, _z) {
       return _x + _y + _3;
     }
-    var word_3 = tea(/* fill this in */);
+    var word_3 = tea(_3, _2, _3=1);
 
     var result = word_1 + " " + word_2 + " " + word_3;
     return result;
